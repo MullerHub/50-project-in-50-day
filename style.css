@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: aqua;
+  background-color: rgb(10, 10, 10);
+}
+
+h1 {
+  margin: 5rem;
+  font-size: 8rem;
+}
+
+h1:hover {
+  font-size: 14rem;
+  transition: 6s;
+}
